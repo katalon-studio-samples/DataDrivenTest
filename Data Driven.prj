@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Example project for how to apply data driven with Katalon Studio</description>
+   <name>Data Driven</name>
+   <tag></tag>
+   <UUID>c4115f9c-b955-4fe5-9a24-59295a112e17</UUID>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
